@@ -1,0 +1,7 @@
+font-myricam: latest
+font-myricam
+http://myrica.estable.jp/
+/opt/homebrew-cask/Caskroom/font-myricam/latest (6 files, 16M)
+https://github.com/caskroom/homebrew-fonts/blob/master/Casks/font-myricam.rb
+==> Contents
+  MyricaM.TTC (font)
