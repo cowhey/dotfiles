@@ -6,4 +6,3 @@
 > Copyright (c) 2014 "BABAROT" b4b4ro7
 
 * **ライセンス :** The MIT License (MIT)
-* **ライセンス全文 :** [licenses/KanColleViewer.txt](licenses/KanColleViewer.txt)
